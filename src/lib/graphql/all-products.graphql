@@ -1,0 +1,14 @@
+query FindAllProducts {
+  findAllProducts {
+    products {
+      id
+      name
+      price
+      category
+      description
+      isAvailable
+      createdAt
+    }
+    totalCount
+  }
+}
