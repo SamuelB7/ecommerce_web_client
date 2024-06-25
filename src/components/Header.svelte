@@ -6,18 +6,18 @@
 <header>
     <div class="flex items-center justify-between py-5 px-40">
         <div class="flex items-center gap-8">
-            <a href="">Logo</a>
+            <a href="/">Logo</a>
             <div class="w-[2px] h-10 bg-slate-700"></div>
-            <a href="">Home</a>
-            <a href="">Products</a>
-            <a href="">About Us</a>
-            <a href="">Contact</a>
+            <a href="/">Home</a>
+            <a href="/products">Products</a>
+            <a href="/about">About Us</a>
+            <a href="/contact">Contact</a>
         </div>
         <div class="flex justify-center items-center gap-8">
-            <a href="">
+            <a href="/cart">
                 <img src={cartIcon} alt="shopping-cart-icon" />
             </a>
-            <a href="">
+            <a href="/my-area">
                 <img src={userIcon} alt="user-icon" />
             </a>
         </div>
