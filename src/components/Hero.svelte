@@ -14,6 +14,6 @@
         >
     </div>
     <div>
-        <img src="https://place-hold.it/500x500" alt="" srcset="" />
+        <img src="https://place-hold.it/500x500" alt="" />
     </div>
 </div>
